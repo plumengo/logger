@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/plumengo/logger/issues"
   },
-  "homepage": "https://github.com/plumengo/logger#readme"
+  "homepage": "https://github.com/plumengo/logger#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
